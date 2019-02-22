@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff69bc2e-d5d0-418e-bfdf-a453aa642580" name="Default Changelist" comment="" />
+    <list default="true" id="ff69bc2e-d5d0-418e-bfdf-a453aa642580" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/blockchain.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/blockchain.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1722" />
+          <entry key="py" value="2533" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1722" />
+          <entry key="Python" value="2533" />
         </counts>
       </usages-collector>
     </session>
@@ -43,14 +47,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/blockchain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state>
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1550809384508" expanded="true" signature="76:81" ph="..." />
-                <marker date="1550809384508" expanded="true" signature="309:318" ph="..." />
-                <marker date="1550809384508" expanded="true" signature="1021:1030" ph="..." />
-                <marker date="1550809384508" expanded="true" signature="1569:1578" ph="..." />
+                <marker date="1550810641590" expanded="true" signature="100:105" ph="..." />
+                <marker date="1550810641590" expanded="true" signature="324:333" ph="..." />
+                <marker date="1550810641590" expanded="true" signature="1035:1044" ph="..." />
+                <marker date="1550810641590" expanded="true" signature="1583:1592" ph="..." />
               </folding>
             </state>
           </provider>
@@ -64,6 +67,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,6 +89,7 @@
     <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -141,7 +148,7 @@
     <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27309564" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20907618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -153,7 +160,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -175,14 +182,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/blockchain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state>
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1550809384508" expanded="true" signature="76:81" ph="..." />
-            <marker date="1550809384508" expanded="true" signature="309:318" ph="..." />
-            <marker date="1550809384508" expanded="true" signature="1021:1030" ph="..." />
-            <marker date="1550809384508" expanded="true" signature="1569:1578" ph="..." />
+            <marker date="1550810641590" expanded="true" signature="100:105" ph="..." />
+            <marker date="1550810641590" expanded="true" signature="324:333" ph="..." />
+            <marker date="1550810641590" expanded="true" signature="1035:1044" ph="..." />
+            <marker date="1550810641590" expanded="true" signature="1583:1592" ph="..." />
           </folding>
         </state>
       </provider>

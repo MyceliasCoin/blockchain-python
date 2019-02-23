@@ -111,6 +111,8 @@ class Blockchain(object):
         guess_hash = hashlib.sha256(guess).hexdigest()
         return guess_hash[:4] == "0000"
 
+# ---FLASK CODE BELOW---
+
 
 # Instantiate our Node
 app = Flask(__name__)
